@@ -2,8 +2,7 @@ name: Publish docs via GitHub Pages
 on:
   push:
     branches:
-      - draft
-      # change to 'main' when ready to publish
+      - main
 
 jobs:
   build:
