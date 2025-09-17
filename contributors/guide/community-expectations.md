@@ -1,6 +1,3 @@
-> [!WARNING]
-> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
-
 # Community Expectations
 
 All Chef Software Inc. code is open-source and operated as community projects. Consequently, it is wholly dependent on its community to provide a productive, friendly and collaborative environment.
@@ -13,7 +10,7 @@ We therefore describe the expectations for members of the Chef Software Inc. com
 
 As a community, we believe in the value of code review for all contributions. Code review increases both the quality and readability of our codebase, which in turn produces high quality software.
 
-Consequently, as a community, we expect that all active participants in the community will also be active reviewers. The [project membership](/project-membership.md) outlines the responsibilities of the different contributor roles.
+Consequently, as a community, we expect that all active participants in the community will also be active reviewers. The [project membership](../../policies/project-membership.md) outlines the responsibilities of the different contributor roles.
 
 Expect reviewers to request that your PRs follow the specific project's style and testing requirements.
 
@@ -21,7 +18,7 @@ For more information on the review process, see the [Code Reviews section](colla
 
 ## Expectations of reviewers: Review comments
 
-Because reviewers are often the first point of contact between new members of the community and can significantly impact the first impression of the community, reviewers are especially important in shaping the Chef Software Inc. community. Reviewers are required to abide by the [Code of Conduct](/governance.md#code-of-conduct) and are strongly encouraged to go above and beyond the Code of Conduct to promote a collaborative, respectful community.
+Because reviewers are often the first point of contact between new members of the community and can significantly impact the first impression of the community, reviewers are especially important in shaping the Chef Software Inc. community. Reviewers are required to abide by the [Code of Conduct](../../policies/code-of-conduct.md) and are strongly encouraged to go above and beyond the Code of Conduct to promote a collaborative, respectful community.
 
 ## Expectations of reviewers: Review latency
 

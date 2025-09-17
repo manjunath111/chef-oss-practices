@@ -1,6 +1,3 @@
-> [!WARNING]
-> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
-
 # More Ways to Contribute
 
 ## GitHub
@@ -15,7 +12,7 @@ Interact with existing community members on Slack and Discourse and inform other
 
 ## Learn Chef Rally
 
-Many community members learn about Chef products through [Learn Chef Rally](https://learn.chef.io) and you can help create or update content.
+Many community members learn about Chef products through [Learn Chef](https://learn.chef.io) and you can help create or update content.
 
 ## Writing
 
